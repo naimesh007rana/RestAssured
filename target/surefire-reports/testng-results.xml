@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-04T17:26:59Z" name="Suite" finished-at="2024-02-04T17:27:01Z" duration-ms="2559">
+    <groups>
+    </groups>
+    <test started-at="2024-02-04T17:26:59Z" name="Test" finished-at="2024-02-04T17:27:01Z" duration-ms="2559">
+      <class name="restAPIBDD.APIOperationsTest">
+        <test-method signature="GetOperation()[pri:0, instance:restAPIBDD.APIOperationsTest@2ea41516]" started-at="2024-02-04T17:26:59Z" name="GetOperation" finished-at="2024-02-04T17:27:00Z" duration-ms="1332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetOperation -->
+        <test-method signature="GetOperationWithPara()[pri:0, instance:restAPIBDD.APIOperationsTest@2ea41516]" started-at="2024-02-04T17:27:00Z" name="GetOperationWithPara" finished-at="2024-02-04T17:27:01Z" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetOperationWithPara -->
+        <test-method signature="GetOperationWithQueryPara()[pri:0, instance:restAPIBDD.APIOperationsTest@2ea41516]" started-at="2024-02-04T17:27:01Z" name="GetOperationWithQueryPara" finished-at="2024-02-04T17:27:01Z" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetOperationWithQueryPara -->
+        <test-method signature="PostOperationWithhashmap()[pri:0, instance:restAPIBDD.APIOperationsTest@2ea41516]" started-at="2024-02-04T17:27:01Z" name="PostOperationWithhashmap" finished-at="2024-02-04T17:27:01Z" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostOperationWithhashmap -->
+        <test-method signature="PutOperationWithhashmap()[pri:0, instance:restAPIBDD.APIOperationsTest@2ea41516]" started-at="2024-02-04T17:27:01Z" name="PutOperationWithhashmap" finished-at="2024-02-04T17:27:01Z" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutOperationWithhashmap -->
+        <test-method signature="XDeleteOperation()[pri:0, instance:restAPIBDD.APIOperationsTest@2ea41516]" started-at="2024-02-04T17:27:01Z" name="XDeleteOperation" finished-at="2024-02-04T17:27:01Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XDeleteOperation -->
+      </class> <!-- restAPIBDD.APIOperationsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

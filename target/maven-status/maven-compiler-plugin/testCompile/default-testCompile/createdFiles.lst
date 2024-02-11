@@ -1,0 +1,12 @@
+gitHub/GetAllRepo.class
+restAPI/PostWithJson.class
+restAPI/PutRequest.class
+restAPI/GetRequestWithParameter.class
+gitHub/DeleteRepo.class
+restAPI/GetRequest.class
+gitHub/CreateRepo.class
+restAPI/PostWithHasemap.class
+restAPI/PostRequest.class
+restAPIXML/XMLTest.class
+restAPI/DeleteRequest.class
+restAPIBDD/APIOperationsTest.class

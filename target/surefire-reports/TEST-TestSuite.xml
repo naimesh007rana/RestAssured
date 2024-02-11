@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="3.262" tests="6" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/naimesh007ranag/eclipse-workspace/RestAssuredProject/target/test-classes:/home/naimesh007ranag/eclipse-workspace/RestAssuredProject/target/classes:/home/naimesh007ranag/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/home/naimesh007ranag/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/home/naimesh007ranag/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/home/naimesh007ranag/.m2/repository/io/rest-assured/rest-assured/4.3.1/rest-assured-4.3.1.jar:/home/naimesh007ranag/.m2/repository/org/codehaus/groovy/groovy/3.0.3/groovy-3.0.3.jar:/home/naimesh007ranag/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.3/groovy-xml-3.0.3.jar:/home/naimesh007ranag/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/home/naimesh007ranag/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/home/naimesh007ranag/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/naimesh007ranag/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/home/naimesh007ranag/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/home/naimesh007ranag/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/home/naimesh007ranag/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/home/naimesh007ranag/.m2/repository/io/rest-assured/xml-path/4.3.1/xml-path-4.3.1.jar:/home/naimesh007ranag/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/home/naimesh007ranag/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/home/naimesh007ranag/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:/home/naimesh007ranag/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.3/jaxb-impl-2.3.3.jar:/home/naimesh007ranag/.m2/repository/io/rest-assured/json-path/4.3.1/json-path-4.3.1.jar:/home/naimesh007ranag/.m2/repository/org/codehaus/groovy/groovy-json/3.0.3/groovy-json-3.0.3.jar:/home/naimesh007ranag/.m2/repository/io/rest-assured/rest-assured-common/4.3.1/rest-assured-common-4.3.1.jar:/home/naimesh007ranag/.m2/repository/io/rest-assured/json-schema-validator/4.3.1/json-schema-validator-4.3.1.jar:/home/naimesh007ranag/.m2/repository/com/github/java-json-tools/json-schema-validator/2.2.10/json-schema-validator-2.2.10.jar:/home/naimesh007ranag/.m2/repository/com/github/java-json-tools/json-schema-core/1.2.10/json-schema-core-1.2.10.jar:/home/naimesh007ranag/.m2/repository/com/github/java-json-tools/jackson-coreutils/1.9/jackson-coreutils-1.9.jar:/home/naimesh007ranag/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.2.3/jackson-databind-2.2.3.jar:/home/naimesh007ranag/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.2.3/jackson-annotations-2.2.3.jar:/home/naimesh007ranag/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.2.3/jackson-core-2.2.3.jar:/home/naimesh007ranag/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.jar:/home/naimesh007ranag/.m2/repository/com/github/fge/msg-simple/1.1/msg-simple-1.1.jar:/home/naimesh007ranag/.m2/repository/com/github/fge/btf/1.2/btf-1.2.jar:/home/naimesh007ranag/.m2/repository/com/github/fge/uri-template/0.9/uri-template-0.9.jar:/home/naimesh007ranag/.m2/repository/org/mozilla/rhino/1.7.7.1/rhino-1.7.7.1.jar:/home/naimesh007ranag/.m2/repository/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar:/home/naimesh007ranag/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/naimesh007ranag/.m2/repository/joda-time/joda-time/2.9.7/joda-time-2.9.7.jar:/home/naimesh007ranag/.m2/repository/com/googlecode/libphonenumber/libphonenumber/8.0.0/libphonenumber-8.0.0.jar:/home/naimesh007ranag/.m2/repository/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar:/home/naimesh007ranag/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar:/home/naimesh007ranag/.m2/repository/org/json/json/20210307/json-20210307.jar:"/>
+    <property name="java.vm.vendor" value="Ubuntu"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://ubuntu.com/"/>
+    <property name="user.timezone" value="Etc/UTC"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="/home/naimesh007ranag/eclipse-workspace/RestAssuredProject/target/surefire/surefirebooter6721490544431447941.jar /home/naimesh007ranag/eclipse-workspace/RestAssuredProject/target/surefire 2024-02-04T17-26-57_555-jvmRun1 surefire9538856272257448457tmp surefire_015094041980426396853tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/naimesh007ranag/eclipse-workspace/RestAssuredProject/target/test-classes:/home/naimesh007ranag/eclipse-workspace/RestAssuredProject/target/classes:/home/naimesh007ranag/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/home/naimesh007ranag/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/home/naimesh007ranag/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/home/naimesh007ranag/.m2/repository/io/rest-assured/rest-assured/4.3.1/rest-assured-4.3.1.jar:/home/naimesh007ranag/.m2/repository/org/codehaus/groovy/groovy/3.0.3/groovy-3.0.3.jar:/home/naimesh007ranag/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.3/groovy-xml-3.0.3.jar:/home/naimesh007ranag/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/home/naimesh007ranag/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/home/naimesh007ranag/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/naimesh007ranag/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/home/naimesh007ranag/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/home/naimesh007ranag/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/home/naimesh007ranag/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/home/naimesh007ranag/.m2/repository/io/rest-assured/xml-path/4.3.1/xml-path-4.3.1.jar:/home/naimesh007ranag/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/home/naimesh007ranag/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/home/naimesh007ranag/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:/home/naimesh007ranag/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.3/jaxb-impl-2.3.3.jar:/home/naimesh007ranag/.m2/repository/io/rest-assured/json-path/4.3.1/json-path-4.3.1.jar:/home/naimesh007ranag/.m2/repository/org/codehaus/groovy/groovy-json/3.0.3/groovy-json-3.0.3.jar:/home/naimesh007ranag/.m2/repository/io/rest-assured/rest-assured-common/4.3.1/rest-assured-common-4.3.1.jar:/home/naimesh007ranag/.m2/repository/io/rest-assured/json-schema-validator/4.3.1/json-schema-validator-4.3.1.jar:/home/naimesh007ranag/.m2/repository/com/github/java-json-tools/json-schema-validator/2.2.10/json-schema-validator-2.2.10.jar:/home/naimesh007ranag/.m2/repository/com/github/java-json-tools/json-schema-core/1.2.10/json-schema-core-1.2.10.jar:/home/naimesh007ranag/.m2/repository/com/github/java-json-tools/jackson-coreutils/1.9/jackson-coreutils-1.9.jar:/home/naimesh007ranag/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.2.3/jackson-databind-2.2.3.jar:/home/naimesh007ranag/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.2.3/jackson-annotations-2.2.3.jar:/home/naimesh007ranag/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.2.3/jackson-core-2.2.3.jar:/home/naimesh007ranag/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.jar:/home/naimesh007ranag/.m2/repository/com/github/fge/msg-simple/1.1/msg-simple-1.1.jar:/home/naimesh007ranag/.m2/repository/com/github/fge/btf/1.2/btf-1.2.jar:/home/naimesh007ranag/.m2/repository/com/github/fge/uri-template/0.9/uri-template-0.9.jar:/home/naimesh007ranag/.m2/repository/org/mozilla/rhino/1.7.7.1/rhino-1.7.7.1.jar:/home/naimesh007ranag/.m2/repository/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar:/home/naimesh007ranag/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/naimesh007ranag/.m2/repository/joda-time/joda-time/2.9.7/joda-time-2.9.7.jar:/home/naimesh007ranag/.m2/repository/com/googlecode/libphonenumber/libphonenumber/8.0.0/libphonenumber-8.0.0.jar:/home/naimesh007ranag/.m2/repository/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar:/home/naimesh007ranag/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar:/home/naimesh007ranag/.m2/repository/org/json/json/20210307/json-20210307.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/naimesh007ranag"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/naimesh007ranag/eclipse-workspace/RestAssuredProject"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/home/naimesh007ranag/eclipse-workspace/RestAssuredProject/target/surefire/surefirebooter6721490544431447941.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.21+9-post-Ubuntu-0ubuntu120.04"/>
+    <property name="user.name" value="naimesh007ranag"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.15.0-1052-aws"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/naimesh007ranag/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-lts"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="11.0.21"/>
+    <property name="user.dir" value="/home/naimesh007ranag/eclipse-workspace/RestAssuredProject"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Ubuntu"/>
+    <property name="java.vm.version" value="11.0.21+9-post-Ubuntu-0ubuntu120.04"/>
+    <property name="java.specification.maintenance.version" value="2"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="GetOperation" classname="restAPIBDD.APIOperationsTest" time="1.332">
+    <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+[
+    {
+        "id": "1",
+        "name": "Pankaj",
+        "salary": "10000"
+    },
+    {
+        "id": "3",
+        "name": "Naimesh",
+        "salary": "70000"
+    },
+    {
+        "id": "2",
+        "name": "Unnati",
+        "salary": "50000"
+    },
+    {
+        "id": "5",
+        "name": "Ronak",
+        "salary": "30000"
+    },
+    {
+        "id": "6",
+        "name": "Siddhi",
+        "salary": "40000"
+    },
+    {
+        "id": "7",
+        "name": "Jayesh",
+        "salary": "40000"
+    },
+    {
+        "id": "8",
+        "name": "Geeta",
+        "salary": "30000"
+    },
+    {
+        "id": "4",
+        "name": "Ronak",
+        "salary": "30000"
+    }
+]
+]]></system-out>
+  </testcase>
+  <testcase name="GetOperationWithPara" classname="restAPIBDD.APIOperationsTest" time="0.457">
+    <system-out><![CDATA[HTTP/1.1 200 OK
+X-Powered-By: tinyhttp
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, HEAD, PUT, PATCH, POST, DELETE
+Access-Control-Allow-Headers: content-type
+Content-Type: application/json
+Date: Sun, 04 Feb 2024 17:27:00 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 57
+
+{
+    "id": "3",
+    "name": "Naimesh",
+    "salary": "70000"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="GetOperationWithQueryPara" classname="restAPIBDD.APIOperationsTest" time="0.386">
+    <system-out><![CDATA[<html>
+  <body>{"result:":{"statements":[{"TRANSACTION_ID":"12","ACCOUNT_NO":"1","DATE_OF_TRANSACTION":"2013-11-16","AMOUNT":"500","TRANSACTION_TYPE":"D","DESCRIPTION":"Initial Deposit"},{"TRANSACTION_ID":"23","ACCOUNT_NO":"1","DATE_OF_TRANSACTION":"2013-11-17","AMOUNT":"14","TRANSACTION_TYPE":"t","DESCRIPTION":"yi Tansfer From 14"},{"TRANSACTION_ID":"25","ACCOUNT_NO":"1","DATE_OF_TRANSACTION":"2013-11-18","AMOUNT":"1","TRANSACTION_TYPE":"t","DESCRIPTION":"hgg Tansfer From 15"},{"TRANSACTION_ID":"49745","ACCOUNT_NO":"1","DATE_OF_TRANSACTION":"2017-04-13","AMOUNT":"0","TRANSACTION_TYPE":"t","DESCRIPTION":"0 Tansfer From 1"},{"TRANSACTION_ID":"94867","ACCOUNT_NO":"1","DATE_OF_TRANSACTION":"2018-11-21","AMOUNT":"500","TRANSACTION_TYPE":"t","DESCRIPTION":"cash Tansfer From 14"}]},"message":{"ErrorCode:":0,"ErrorMsg:":"Success"}}</body>
+</html>
+]]></system-out>
+  </testcase>
+  <testcase name="PostOperationWithhashmap" classname="restAPIBDD.APIOperationsTest" time="0.295">
+    <system-out><![CDATA[{
+    "id": "9",
+    "name": "Samir",
+    "salary": "3000"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="PutOperationWithhashmap" classname="restAPIBDD.APIOperationsTest" time="0.043">
+    <system-out><![CDATA[{
+    "name": "Kabir",
+    "id": "9",
+    "salary": "25000"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="XDeleteOperation" classname="restAPIBDD.APIOperationsTest" time="0.023">
+    <system-out><![CDATA[{
+    "name": "Kabir",
+    "id": "9",
+    "salary": "25000"
+}
+]]></system-out>
+  </testcase>
+</testsuite>
